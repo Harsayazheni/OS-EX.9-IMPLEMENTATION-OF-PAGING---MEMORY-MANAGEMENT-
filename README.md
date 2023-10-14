@@ -70,3 +70,5 @@ return 0;
 ![image](https://github.com/Harsayazheni/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/118708467/30ed9b5b-e967-4b24-ad05-89337728d133)
 
 # RESULT
+
+Thus the implementation of FIFO page replacement is successfully executed.
